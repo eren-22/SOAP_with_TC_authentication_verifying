@@ -1,0 +1,10 @@
+C:\Users\eren1\OneDrive\Masaüstü\C# Projects\TCDogrulama\TCDogrulama\bin\Debug\TCDogrulama.exe.config
+C:\Users\eren1\OneDrive\Masaüstü\C# Projects\TCDogrulama\TCDogrulama\bin\Debug\TCDogrulama.exe
+C:\Users\eren1\OneDrive\Masaüstü\C# Projects\TCDogrulama\TCDogrulama\bin\Debug\TCDogrulama.pdb
+C:\Users\eren1\OneDrive\Masaüstü\C# Projects\TCDogrulama\TCDogrulama\obj\Debug\TCDogrulama.csproj.AssemblyReference.cache
+C:\Users\eren1\OneDrive\Masaüstü\C# Projects\TCDogrulama\TCDogrulama\obj\Debug\TCDogrulama.Form1.resources
+C:\Users\eren1\OneDrive\Masaüstü\C# Projects\TCDogrulama\TCDogrulama\obj\Debug\TCDogrulama.Properties.Resources.resources
+C:\Users\eren1\OneDrive\Masaüstü\C# Projects\TCDogrulama\TCDogrulama\obj\Debug\TCDogrulama.csproj.GenerateResource.cache
+C:\Users\eren1\OneDrive\Masaüstü\C# Projects\TCDogrulama\TCDogrulama\obj\Debug\TCDogrulama.csproj.CoreCompileInputs.cache
+C:\Users\eren1\OneDrive\Masaüstü\C# Projects\TCDogrulama\TCDogrulama\obj\Debug\TCDogrulama.exe
+C:\Users\eren1\OneDrive\Masaüstü\C# Projects\TCDogrulama\TCDogrulama\obj\Debug\TCDogrulama.pdb
